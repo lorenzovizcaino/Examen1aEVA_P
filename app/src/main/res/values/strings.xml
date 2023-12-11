@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen1aEVA_P</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="vercontraseña">Ver Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="Elcampousuarioestavacio">El campo usuario esta vacio</string>
+    <string name="Elcampocontraseñaestavacio">El campo contraseña esta vacio</string>
+
+</resources>

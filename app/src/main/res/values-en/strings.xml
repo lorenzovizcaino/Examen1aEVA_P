@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen1aEVA_P</string>
+    <string name="usuario">User</string>
+    <string name="contraseña">Password</string>
+    <string name="vercontraseña">Password see</string>
+    <string name="entrar">Go</string>
+    <string name="registrarse">Register</string>
+    <string name="Elcampousuarioestavacio">The user is empty</string>
+    <string name="Elcampocontraseñaestavacio">The password is empty</string>
+
+
+</resources>
